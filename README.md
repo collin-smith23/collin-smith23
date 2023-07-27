@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 ##Introduction
 - 🔭 I’m currently working on refining my HowMuchCanISpend web application! An application that allows users to be more efficient with tracking events or finances.
 - 📫 How to reach me: https://www.linkedin.com/in/collin-smith-a18b80237/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have beaten Skyrim at least 50 times from start to finish
 
